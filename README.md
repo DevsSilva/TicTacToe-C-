@@ -1,2 +1,2 @@
 # TicTacToe-C-
-A small c++ tictactoe , easy to start 
+A small c++ tictactoe , easy to code and test your c++ skills!
